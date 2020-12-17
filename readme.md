@@ -1,3 +1,8 @@
+Project: The Zoo RFID Tracker
+Author: Drew Townsend
+Date: 12/16/2020
+Version: 1.0.0
+
 1. This project is created using C++ as a base language, with Java integrated into it. The program can be used to manage and keep track of animal RFID records. Users have the ability to generate txt files to hold animal records and their tracking number.
 2. I feel that I was able to implement the base/derived class architecture well. It worked really well, and using a vector full of pointers, I was able to call derived class functions over base class functions.
 3. I definitely think there are areas where I can make the code more efficient. I think I could create more functions so that I don't have so much copy and pasted code. I should also go back and ensure that my code has the best security implemented. Lastly, I think I need to learn how to manipulate and output text better using setw and setfill. 
